@@ -1,93 +1,233 @@
-<img width="1983" height="793" alt="ChatGPT Image Aug 26, 2026, 05_16_10 PM" src="https://github.com/user-attachments/assets/09416869-9108-40b4-a51d-1ea14db2b34b" />
+<div align="center">
 
+<img src="https://github.com/user-attachments/assets/09416869-9108-40b4-a51d-1ea14db2b34b" width="100%">
 
-# Hi, I'm José Manuel 👋
+</div>
 
-### Full Stack Developer | Computer Engineer
+<br>
 
-I'm a developer focused on building **web applications, internal business systems, APIs, and data-driven solutions**.
+<div align="center">
 
-I enjoy turning business requirements into practical, scalable, and intuitive software.
+# 👋 Hi, I'm José Manuel
+
+### 💻 Full Stack Developer | Computer Engineer
+
+**Building modern applications · Solving problems · Turning ideas into code**
+
+</div>
 
 ---
 
 ## 🚀 About Me
 
-* 💻 Full Stack Developer focused on web applications and enterprise systems
-* ⚛️ Building frontends with **React, Vite, and modern UI libraries**
-* 🟢 Developing APIs and backend services with **Node.js & Express**
-* 🗄️ Working with **SQL Server, MySQL, and SQLite**
-* ☁️ Experience with **Microsoft Azure and Microsoft Entra ID**
-* 📊 Interested in **Data Analytics, Power BI, and Machine Learning**
-* 🔐 Experience building systems with authentication, roles, and permissions
-* 🛠️ Interested in software architecture, automation, and deployment
+I'm a **Full Stack Developer and Computer Engineer** passionate about building modern software solutions that connect technology with real business needs.
+
+I enjoy transforming ideas and requirements into **practical, scalable, intuitive, and maintainable applications**.
+
+- 💻 Full Stack development and enterprise applications
+- ⚛️ Modern frontend development with **React & Vite**
+- 🟢 Backend development with **Node.js & Express**
+- 🗄️ Database design and integration
+- ☁️ Cloud solutions with **Microsoft Azure**
+- 📊 Data Analytics and **Power BI**
+- 🤖 Machine Learning and Data Science
+- 🔐 Authentication, roles, permissions, and enterprise systems
+- ⚙️ Deployment, automation, APIs, and system architecture
 
 ---
 
-## 🧰 Tech Stack
+## 🧠 What I Build
 
-### Frontend
+<table>
+<tr>
+<td width="50%">
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge\&logo=vite\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+### 🏢 Enterprise Applications
 
-### Backend
+Business-oriented applications designed to automate processes and improve daily operations.
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js\&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge\&logo=express\&logoColor=white)
+**Examples:**
+- Human Resources
+- Vacation Management
+- Performance Evaluations
+- Inventory Management
+- Workflow Systems
+- Internal Business Tools
 
-### Databases
+</td>
 
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge\&logo=microsoftsqlserver\&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge\&logo=sqlite\&logoColor=white)
+<td width="50%">
 
-### Cloud & Tools
+### 📊 Data & Analytics
 
-![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge\&logo=microsoftazure\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge\&logo=powerbi\&logoColor=black)
+Solutions focused on transforming data into useful information for decision-making.
 
-### Data & AI
+**Examples:**
+- Interactive Dashboards
+- Business Reports
+- Data Processing
+- Data Visualization
+- Predictive Models
+- Power BI Solutions
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge\&logo=scikit-learn\&logoColor=white)
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🔌 APIs & Integrations
+
+Backend services and integrations connecting applications, databases, and business processes.
+
+**Technologies:**
+- REST APIs
+- Node.js
+- Express
+- SQL
+- Authentication
+- Business Logic
+
+</td>
+
+<td width="50%">
+
+### ☁️ Cloud & Deployment
+
+Building and deploying applications using modern infrastructure and cloud technologies.
+
+**Technologies:**
+- Microsoft Azure
+- Microsoft Entra ID
+- Git & GitHub
+- Server Configuration
+- Application Deployment
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 📌 What I Build
+# 🧰 Tech Stack
 
-🏢 **Enterprise Applications**
-Human Resources, vacation management, performance evaluations, inventory management, reporting, and workflow automation.
+### 🎨 Frontend
 
-📊 **Data & Analytics**
-Interactive dashboards, business reports, data processing, and predictive models.
+<p align="center">
 
-🔌 **APIs & Integrations**
-REST APIs, database integrations, authentication, and business logic.
+<img src="https://skillicons.dev/icons?i=js,ts,react,vite,css,html" />
 
-☁️ **Cloud & Deployment**
-Microsoft Azure, application deployment, server configuration, and enterprise authentication.
+</p>
 
 ---
 
-## 📊 GitHub Stats
+### ⚙️ Backend
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=JoseManuel2001\&theme=shadow-brown\&hide_border=true)](https://git.io/streak-stats)
+<p align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JoseManuel2001\&show_icons=true\&theme=dark\&hide_border=true)
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JoseManuel2001\&layout=compact\&theme=dark\&hide_border=true)
+</p>
 
 ---
 
-## 📫 Let's Connect
+### 🗄️ Databases
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=mysql,sqlite" />
+
+<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+
+</p>
+
+---
+
+### ☁️ Cloud & Tools
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=azure,git,github" />
+
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+
+</p>
+
+---
+
+### 🤖 Data & AI
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python" />
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+
+</p>
+
+---
+
+# 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=JoseManuel2001&theme=dark&hide_border=true&background=0D1117&ring=8B5CF6&fire=00E5FF&currStreakLabel=00E5FF" height="180">
+
+<img src="https://github-readme-stats.vercel.app/api?username=JoseManuel2001&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=8B5CF6&text_color=FFFFFF" height="180">
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseManuel2001&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=FFFFFF">
+
+</div>
+
+---
+
+# 💡 My Development Philosophy
+
+<div align="center">
+
+### `IDEA → PLAN → CODE → TEST → DEPLOY → IMPROVE`
+
+<br>
+
+**Build with purpose.**  
+**Solve real problems.**  
+**Keep learning.**  
+**Keep building.** 🚀
+
+</div>
+
+---
+
+# 📈 Currently Learning
+
+<div align="center">
+
+`Cloud Architecture` · `System Design` · `Data Engineering` · `Machine Learning` · `DevOps`
+
+</div>
+
+---
+
+# 📫 Let's Connect
+
+<div align="center">
 
 I'm always learning, building new projects, and exploring new technologies.
 
-**Thanks for visiting my profile! 🚀**
+<br>
+
+### 💻 Code → 🧠 Learn → 🚀 Build → 🔄 Repeat
+
+<br>
+
+**Thanks for visiting my profile!**
+
+</div>
