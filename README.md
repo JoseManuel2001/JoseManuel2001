@@ -1,6 +1,8 @@
+<img width="1983" height="793" alt="ChatGPT Image Aug 26, 2026, 05_10_13 PM" src="https://github.com/user-attachments/assets/63655968-a47e-46f5-a15c-8f2a0bc1b1a9" />
+
 # Hi, I'm José Manuel 👋
 
-### Full Stack Developer | Software Engineer
+### Full Stack Developer | Computer Engineer
 
 I'm a developer focused on building **web applications, internal business systems, APIs, and data-driven solutions**.
 
